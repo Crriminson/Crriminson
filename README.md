@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech%20ECE-SFIT%20Mumbai-7C3AED?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/BS%20CS-BITS%20Pilani-6D28D9?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AIR%201-e--Yantra%20HoloBattalion-4C1D95?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/B.Tech%20ECE-SFIT%20Mumbai-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/BS%20CS-BITS%20Pilani-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20AIR%201-e--Yantra%20HoloBattalion-4C1D95?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Mumbai%2C%20India-8B5CF6?style=flat-square" />
 </p>
 
 <p align="center">
@@ -34,64 +34,63 @@
 
 ## About
 
-I'm an ECE and CS undergraduate building at the intersection of hardware, software, and intelligent systems — simultaneously pursuing a B.Tech in Electronics & Communication at **St. Francis Institute of Technology, Mumbai** and a BS in Computer Science at **BITS Pilani**.
+I'm an ECE undergrad from Mumbai studying at SFIT, and a CS student at BITS Pilani — running both simultaneously. It's a deliberate choice. I want to understand systems at every layer, from hardware and firmware all the way up to AI agents and deployed web apps.
 
-My work spans **ROS2**, **control systems**, **embedded systems**, **AI/ML**, **agentic AI**, **3D design**, and **full-stack web development** — mostly shaped through competitions, hackathons, and real-world constraints that demand fast learning and functional delivery. A defining milestone has been **e-Yantra HoloBattalion 2025-26**, where I achieved **All India Rank 1**, working on multi-robot coordination, navigation logic, and live-environment system reliability.
+Most of what I've built has come out of constraint — competitions with tight timelines, hackathons with ambiguous problem statements, and robotics arenas where things either work or they don't. The clearest example is **e-Yantra HoloBattalion 2025-26**, where I built a multi-robot coordination system that ranked **AIR 1** nationally. That involved a lot of failed navigation runs, late debugging sessions, and eventually a system that held up under live conditions.
 
-I approach engineering as a full-stack discipline — from microcontroller firmware to cloud-deployed AI agents — and I'm actively looking for environments where I can keep building across **embedded systems**, **robotics**, and **intelligent software**.
+Outside of robotics, I've been building agentic AI tools, writing full-stack apps, getting into competitive programming, and generally trying to stay curious across the whole stack.
 
-<br>
-
-**Open To:**
-
-![Internships](https://img.shields.io/badge/Open%20To-Internships-7C3AED?style=flat-square)
-![Full-time](https://img.shields.io/badge/Open%20To-Full--time%20Roles-6D28D9?style=flat-square)
-![Research](https://img.shields.io/badge/Open%20To-Research%20Collaborations-4C1D95?style=flat-square)
+<p align="center">
+  <br>
+  <sup>Open to</sup><br>
+  <img src="https://img.shields.io/badge/-Internships-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Full--time%20Roles-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Research%20Collaborations-4C1D95?style=flat-square" />
+</p>
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <strong>Languages</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="right" width="130"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,cpp,c,ts,js,bash&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend & DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,firebase,postgres&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Robotics & AI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,arduino,raspberrypi&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp,docker,git,linux,vscode,figma&theme=dark" /></td>
+  </tr>
+</table>
 
-<p align="center">
-  <strong>Frontend & Web</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Backend & Databases</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,mongodb,postgres,firebase&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Robotics, AI & Embedded</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=ros,opencv,pytorch,tensorflow,arduino,raspberrypi&theme=dark" />
-</p>
-
-<p align="center">
-  <strong>Cloud, DevOps & Tooling</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=gcp,docker,git,linux,vscode,figma&theme=dark" />
-</p>
+<p align="center"><sup>Also: AutoCAD · Fusion 360 · ROS2 Nav2 · UART / SPI / I2C · 3D Design</sup></p>
 
 ---
 
-## AI / ML Expertise
+## AI & ML
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Agentic AI Systems | ⬛⬛⬛⬛⬜ | ADK, multi-agent orchestration, tool-use pipelines |
-| Computer Vision | ⬛⬛⬛⬛⬜ | OpenCV, object detection, real-time inference |
-| Robot Perception & Navigation | ⬛⬛⬛⬛⬜ | ROS2, SLAM, sensor fusion, Nav2 stack |
-| Machine Learning | ⬛⬛⬛⬜⬜ | Supervised / unsupervised, scikit-learn, PyTorch |
-| Large Language Models | ⬛⬛⬛⬜⬜ | Prompt engineering, RAG pipelines, API integration |
-| Embedded AI | ⬛⬛⬛⬜⬜ | Edge inference, microcontroller deployment |
-| Control Systems | ⬛⬛⬛⬛⬜ | PID, state machines, real-time loop design |
+| Domain | Technologies |
+|:---|:---|
+| **Agentic AI** | Google ADK · Multi-agent orchestration · Tool-use pipelines |
+| **Robotics & Navigation** | ROS2 · Nav2 · SLAM · Sensor fusion · Control loops |
+| **Computer Vision** | OpenCV · Object detection · Real-time inference |
+| **Machine Learning** | PyTorch · scikit-learn · Model evaluation pipelines |
+| **LLMs & RAG** | Prompt engineering · Vector stores · API integration |
+| **Control Systems** | PID · State machines · Real-time embedded loops |
 
 </div>
 
@@ -100,59 +99,59 @@ I approach engineering as a full-stack discipline — from microcontroller firmw
 ## Featured Projects
 
 <details>
-<summary><b>Mentra — AI-Powered Mentorship & Learning Platform</b></summary>
+<summary><b>Mentra &nbsp;—&nbsp; AI-Powered Mentorship Platform</b></summary>
 <br>
 
-An intelligent mentorship platform that connects learners with AI-driven guidance, adaptive learning paths, and structured knowledge delivery — built for scale and real-world usability.
+An intelligent mentorship platform connecting learners with AI-driven guidance, adaptive learning paths, and structured knowledge delivery.
 
-| Attribute | Details |
+| | |
 |:---|:---|
-| **Stack** | Next.js, TypeScript, Node.js, MongoDB, OpenAI API, Tailwind CSS |
-| **Scale** | Multi-user platform with session management and personalized state |
-| **AI Layer** | LLM-backed adaptive responses, context-aware mentorship flows |
-| **Security** | JWT auth, rate limiting, sanitized API boundaries |
-| **Impact** | Bridges the gap between passive learning and guided mentorship at scale |
+| **Stack** | Next.js · TypeScript · Node.js · MongoDB · OpenAI API · Tailwind CSS |
+| **Scale** | Multi-user, session-aware, personalised state per learner |
+| **AI Layer** | LLM-backed adaptive responses with context-aware mentorship flows |
+| **Security** | JWT auth · Rate limiting · Sanitised API boundaries |
+| **Impact** | Bridges the gap between passive content and guided, personalised learning |
 | **Repository** | [github.com/Crriminson/Mentra](https://github.com/Crriminson/Mentra) |
 
-Mentra was built as a response to the lack of personalised guidance tools for self-directed learners. The system uses LLM-backed agents to simulate structured mentorship — asking the right questions, surfacing relevant resources, and adapting to the learner's pace. The architecture is designed for extensibility, with clean API boundaries between the AI layer and the frontend.
+Built because good mentorship shouldn't be a function of who you happen to know. The AI layer is designed to ask the right questions, surface relevant resources, and adjust to how you learn — not just what you ask.
 
 </details>
 
 <details>
-<summary><b>Sense — Intelligent Sensor Fusion & Perception System</b></summary>
+<summary><b>Sense &nbsp;—&nbsp; Intelligent Sensor Fusion & Perception System</b></summary>
 <br>
 
-A real-time perception pipeline built for robotic environments, combining multi-sensor input with intelligent processing to deliver reliable environmental awareness under constraint.
+A real-time perception pipeline for robotic environments — fusing multi-sensor input into clean, reliable signals for downstream navigation and control.
 
-| Attribute | Details |
+| | |
 |:---|:---|
-| **Stack** | Python, ROS2, OpenCV, NumPy, C++ (sensor drivers) |
-| **Scale** | Real-time pipeline operating at embedded-system latency targets |
-| **Performance** | Optimised for low-latency inference on resource-constrained hardware |
-| **Security** | Isolated sensor nodes, fault-tolerant topic architecture |
+| **Stack** | Python · ROS2 · OpenCV · NumPy · C++ |
+| **Scale** | Real-time, embedded-system latency targets |
+| **Performance** | Low-latency inference on resource-constrained hardware |
+| **Architecture** | Isolated sensor nodes · Fault-tolerant ROS2 topic graph |
 | **Impact** | Enables robust robot perception in dynamic, unstructured environments |
 | **Repository** | [github.com/Crriminson/Sense](https://github.com/Crriminson/Sense) |
 
-Sense was designed around the practical constraints of competitive robotics — where sensor noise, latency, and hardware limits are non-negotiable. The system fuses inputs across multiple modalities, applies filtering and thresholding in the ROS2 compute graph, and delivers clean, reliable signals to downstream navigation and control nodes.
+Built around the reality of competitive robotics — sensor noise, hardware variance, and strict latency budgets. No margin for "good enough."
 
 </details>
 
 <details>
-<summary><b>e-Yantra HoloBattalion — AIR 1, Multi-Robot Coordination System</b></summary>
+<summary><b>e-Yantra HoloBattalion &nbsp;—&nbsp; AIR 1 · Multi-Robot Coordination System</b></summary>
 <br>
 
-A multi-robot coordination and navigation system built for the e-Yantra Robotics Competition 2025-26 hosted by IIT Bombay, achieving All India Rank 1 in the HoloBattalion theme.
+Full software stack for a multi-robot fleet built for e-Yantra Robotics Competition 2025-26 hosted by IIT Bombay. Achieved All India Rank 1 in the HoloBattalion theme.
 
-| Attribute | Details |
+| | |
 |:---|:---|
-| **Stack** | ROS2, Python, C++, Nav2, Gazebo, Ubuntu |
+| **Stack** | ROS2 · Python · C++ · Nav2 · Gazebo · Ubuntu |
 | **Scale** | Multi-robot fleet with real-time coordination and task allocation |
-| **Performance** | Live arena deployment with sub-second coordination latency |
-| **Domain** | Autonomous navigation, multi-robot systems, mission planning |
-| **Impact** | AIR 1 — national-level competitive robotics (e-Yantra, IIT Bombay) |
-| **Credential** | [EYRC2025-261774678153](http://certificate.e-yantra.org/validate/EYRC2025-261774678153.11667ZEWXPKX) |
+| **Performance** | Live arena deployment · Sub-second inter-robot coordination |
+| **Domain** | Autonomous navigation · Mission planning · Multi-robot systems |
+| **Result** | 🥇 AIR 1 — National Robotics Competition, IIT Bombay |
+| **Credential** | [Verify Certificate](http://certificate.e-yantra.org/validate/EYRC2025-261774678153.11667ZEWXPKX) |
 
-This project involved designing a full software stack for a fleet of robots operating in a shared environment — handling navigation logic, inter-robot communication, task distribution, and system reliability under live competition conditions. The architecture prioritised fault recovery and deterministic behaviour in dynamic scenarios.
+Navigation logic, inter-robot communication, fault recovery, and deterministic behaviour under live competition conditions. The kind of project where simulation and reality stop agreeing at the worst possible moments.
 
 </details>
 
@@ -160,20 +159,23 @@ This project involved designing a full software stack for a fleet of robots oper
 
 ## Experience
 
+<div align="center">
+
 ### Software Engineering Intern &nbsp;·&nbsp; `[Company Name]`
-`[Start Date] – Present` &nbsp;·&nbsp; Mumbai, India *(In Progress — details to be updated)*
+`[Start Date] – Present` &nbsp;·&nbsp; *(In Progress — details to be updated on completion)*
 
-Currently contributing to an active engineering role with scope spanning intelligent systems, software development, and applied problem-solving under real production constraints. Full details will be updated upon completion.
+</div>
 
-**Scope of Work:**
 - Building and shipping features in a fast-moving engineering environment
 - Applying AI/ML and systems engineering knowledge to real-world product challenges
-- Collaborating with cross-functional teams across design, backend, and deployment pipelines
+- Collaborating cross-functionally across design, backend, and deployment
 
-![Python](https://img.shields.io/badge/-Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![ROS2](https://img.shields.io/badge/-ROS2-6D28D9?style=flat-square&logo=ros&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-4C1D95?style=flat-square&logo=tensorflow&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-5B21B6?style=flat-square&logo=linux&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-7C3AED?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ROS2-6D28D9?style=flat-square&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI%2FML-4C1D95?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-5B21B6?style=flat-square&logo=linux&logoColor=white" />
+</p>
 
 ---
 
@@ -183,8 +185,8 @@ Currently contributing to an active engineering role with scope spanning intelli
 
 | Institution | Degree | Period | Highlights |
 |:---|:---|:---:|:---|
-| **St. Francis Institute of Technology, Mumbai** | B.Tech — Electrical, Electronics & Communications Engineering | 2024 – 2028 | E-Tan, Mosaic · Robotics & Embedded Systems focus |
-| **BITS Pilani** | BS — Computer Science | 2024 – 2027 | Dual-degree track · Systems & AI coursework |
+| **St. Francis Institute of Technology, Mumbai** | B.Tech — Electrical, Electronics & Communications Engineering | 2024 – 2028 | E-Tan · Mosaic · Robotics & Embedded Systems |
+| **BITS Pilani** | BS — Computer Science | 2024 – 2028 | Systems & AI coursework |
 
 </div>
 
@@ -196,13 +198,13 @@ Currently contributing to an active engineering role with scope spanning intelli
 
 | Recognition | Details |
 |:---|:---|
-| 🥇 **AIR 1 — e-Yantra HoloBattalion 2025-26** | All India Rank 1 in IIT Bombay's national robotics competition across the HoloBattalion theme |
-| 🤖 **Multi-Robot Systems** | Designed and deployed a full autonomous multi-robot coordination stack under live competition constraints |
-| 🧠 **Agentic AI Day 2025** | Recognised participant — Google Cloud Agentic AI Day, building production-grade AI agent pipelines |
-| ⚡ **Pan-IIT AI/ML Hackathon** | Convolve 4.0 — Consulting & Analytics Club, IIT Guwahati · Jan 2026 |
-| 🌐 **Code For Bharat S2** | National-level civic tech hackathon — Jun 2025 |
-| 🎯 **Hack This Fall 2024** | Selected participant in national virtual hackathon — Oct 2024 |
-| 🔐 **Digital CyberHunt CTF** | Competitive cybersecurity challenge participant — Feb 2026 |
+| 🥇 **AIR 1 — e-Yantra HoloBattalion 2025-26** | All India Rank 1 in IIT Bombay's national robotics competition — multi-robot coordination & navigation |
+| 🤖 **Multi-Robot Systems** | Designed and deployed a full autonomous coordination stack under live competition constraints |
+| 🧠 **Agentic AI Day 2025** | Selected participant — Google Cloud Agentic AI Day · Production-grade AI agent pipelines |
+| ⚡ **Convolve 4.0 — Pan-IIT AI/ML Hackathon** | Consulting & Analytics Club, IIT Guwahati · Jan 2026 |
+| 🌐 **Code For Bharat S2** | National-level civic tech challenge · Jun 2025 |
+| 🎯 **Hack This Fall 2024** | National virtual hackathon participant · Oct 2024 |
+| 🔐 **Digital CyberHunt CTF** | Competitive cybersecurity challenge · Feb 2026 |
 
 </div>
 
@@ -329,7 +331,7 @@ open_to:
 ---
 
 <p align="center">
-  <i>"Build systems that work under real constraints — everything else is just theory."</i>
+  <i>"The gap between simulation and reality is where real engineering begins."</i>
 </p>
 
 <p align="center">

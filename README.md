@@ -253,7 +253,7 @@ Navigation logic, inter-robot communication, fault recovery, and deterministic b
 
 ---
 
-## GitHub Analytics
+## Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Crriminson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=C0C0C0" />
@@ -264,28 +264,16 @@ Navigation logic, inter-robot communication, fault recovery, and deterministic b
   <img src="https://streak-stats.demolab.com/?user=Crriminson&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&sideLabels=C0C0C0&dates=C0C0C0&sideNums=A855F7&currStreakNum=A855F7" />
 </p>
 
----
-
-## GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Crriminson&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
-
----
-
-## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Crriminson&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&hide_border=true" />
 </p>
 
----
-
-## Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Crriminson/Crriminson/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Crriminson/Crriminson/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 </p>
 
 ---

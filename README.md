@@ -265,7 +265,7 @@ Navigation logic, inter-robot communication, fault recovery, and deterministic b
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Crriminson&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Crriminson&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 <p align="center">

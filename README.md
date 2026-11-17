@@ -98,45 +98,7 @@ Outside of robotics, I've been building agentic AI tools, writing full-stack app
 
 ## Featured Projects
 
-<details>
-<summary><b>Mentra &nbsp;—&nbsp; AI-Powered Mentorship Platform</b></summary>
-<br>
-
-An intelligent mentorship platform connecting learners with AI-driven guidance, adaptive learning paths, and structured knowledge delivery.
-
-| | |
-|:---|:---|
-| **Stack** | Next.js · TypeScript · Node.js · MongoDB · OpenAI API · Tailwind CSS |
-| **Scale** | Multi-user, session-aware, personalised state per learner |
-| **AI Layer** | LLM-backed adaptive responses with context-aware mentorship flows |
-| **Security** | JWT auth · Rate limiting · Sanitised API boundaries |
-| **Impact** | Bridges the gap between passive content and guided, personalised learning |
-| **Repository** | [github.com/Crriminson/Mentra](https://github.com/Crriminson/Mentra) |
-
-Built because good mentorship shouldn't be a function of who you happen to know. The AI layer is designed to ask the right questions, surface relevant resources, and adjust to how you learn — not just what you ask.
-
-</details>
-
-<details>
-<summary><b>Sense &nbsp;—&nbsp; Intelligent Sensor Fusion & Perception System</b></summary>
-<br>
-
-A real-time perception pipeline for robotic environments — fusing multi-sensor input into clean, reliable signals for downstream navigation and control.
-
-| | |
-|:---|:---|
-| **Stack** | Python · ROS2 · OpenCV · NumPy · C++ |
-| **Scale** | Real-time, embedded-system latency targets |
-| **Performance** | Low-latency inference on resource-constrained hardware |
-| **Architecture** | Isolated sensor nodes · Fault-tolerant ROS2 topic graph |
-| **Impact** | Enables robust robot perception in dynamic, unstructured environments |
-| **Repository** | [github.com/Crriminson/Sense](https://github.com/Crriminson/Sense) |
-
-Built around the reality of competitive robotics — sensor noise, hardware variance, and strict latency budgets. No margin for "good enough."
-
-</details>
-
-<details>
+<details open>
 <summary><b>e-Yantra HoloBattalion &nbsp;—&nbsp; AIR 1 · Multi-Robot Coordination System</b></summary>
 <br>
 
@@ -146,7 +108,6 @@ Full software stack for a multi-robot fleet built for e-Yantra Robotics Competit
 |:---|:---|
 | **Stack** | ROS2 · Python · C++ · Nav2 · Gazebo · Ubuntu |
 | **Scale** | Multi-robot fleet with real-time coordination and task allocation |
-| **Performance** | Live arena deployment · Sub-second inter-robot coordination |
 | **Domain** | Autonomous navigation · Mission planning · Multi-robot systems |
 | **Result** | 🥇 AIR 1 — National Robotics Competition, IIT Bombay |
 | **Credential** | [Verify Certificate](http://certificate.e-yantra.org/validate/EYRC2025-261774678153.11667ZEWXPKX) |
@@ -154,6 +115,85 @@ Full software stack for a multi-robot fleet built for e-Yantra Robotics Competit
 Navigation logic, inter-robot communication, fault recovery, and deterministic behaviour under live competition conditions. The kind of project where simulation and reality stop agreeing at the worst possible moments.
 
 </details>
+
+<details>
+<summary><b>CA in Your Pocket &nbsp;—&nbsp; AI GST Diagnostics for Small Traders</b></summary>
+<br>
+
+Reads a trader's invoices (camera, PDF or WhatsApp photo), matches them line by line against GSTR-2B, and explains every blocked rupee of Input Tax Credit in Hindi, English or Marathi, with the exact action to take. Built at the KLEOS 2026 hackathon.
+
+| | |
+|:---|:---|
+| **Stack** | React Native · Expo · TypeScript · FastAPI · Gemini · ChromaDB |
+| **AI Layer** | Gemini vision OCR · RAG-backed "Ask a CA" chat · Sarvam AI translation |
+| **Integrations** | WhatsApp Cloud API bot for instant invoice verdicts |
+| **Live** | [crriminson.github.io/pocket-ca](https://crriminson.github.io/pocket-ca/) |
+| **Repository** | [github.com/Crriminson/pocket-ca](https://github.com/Crriminson/pocket-ca) |
+
+</details>
+
+<details>
+<summary><b>Conexus &nbsp;—&nbsp; AI-Native IPO Documentation Platform</b></summary>
+<br>
+
+Streamlines and automates the IPO documentation and compliance lifecycle with retrieval-augmented generation (RAG) and Gemini.
+
+| | |
+|:---|:---|
+| **Stack** | React · TypeScript · Vite · Tailwind CSS · Supabase · Gemini |
+| **AI Layer** | Retrieval-augmented generation with Gemini |
+| **Live** | [crriminson.github.io/conexus](https://crriminson.github.io/conexus/) |
+| **Repository** | [github.com/Crriminson/conexus](https://github.com/Crriminson/conexus) |
+
+</details>
+
+<details>
+<summary><b>Odoo Cafe POS &nbsp;—&nbsp; Full-Stack Restaurant Point of Sale</b></summary>
+<br>
+
+A monorepo restaurant POS with separate surfaces for the counter, customers and a live kitchen display that receives order tickets in real time.
+
+| | |
+|:---|:---|
+| **Stack** | React · Node.js · Express · PostgreSQL · Socket.IO · Zustand |
+| **Payments** | Razorpay integration · QR ordering |
+| **Repository** | [github.com/Crriminson/odoo-cafe-pos](https://github.com/Crriminson/odoo-cafe-pos) |
+
+</details>
+
+<details>
+<summary><b>Solar Installation Manager &nbsp;—&nbsp; Operations Platform for a Rooftop Solar Company</b></summary>
+<br>
+
+Runs the whole job lifecycle: enquiries, site surveys, quotations, orders, serial-tracked inventory, installation, warranties, repairs, subsidies and reporting.
+
+| | |
+|:---|:---|
+| **Stack** | Django · Python · React · TypeScript · TanStack Query · Recharts |
+| **Repository** | [github.com/Crriminson/solar-installation-manager](https://github.com/Crriminson/solar-installation-manager) |
+
+</details>
+
+<details>
+<summary><b>TransitOps &nbsp;—&nbsp; Smart Transport Operations Platform</b></summary>
+<br>
+
+Vehicle and driver lifecycle, trip dispatch with business-rule enforcement, maintenance workflows and fuel tracking in one dashboard.
+
+| | |
+|:---|:---|
+| **Stack** | TypeScript · React · Node.js · Express · Prisma · Socket.IO · Tailwind CSS |
+| **Repository** | [github.com/Crriminson/transitops](https://github.com/Crriminson/transitops) |
+
+</details>
+
+<p align="center"><b>More:</b>
+<a href="https://github.com/Crriminson/sense-second-brain">Sense (AI second brain)</a> ·
+<a href="https://github.com/Crriminson/Mentra">Mentra (digital wellbeing app)</a> ·
+<a href="https://github.com/Crriminson/traveloop">Traveloop (travel planner)</a> ·
+<a href="https://github.com/Crriminson/line-follower-pcb">Line follower PCB (KiCad)</a> ·
+<a href="https://crriminson.github.io/journal-sentiment-tracker/">Journal Sentiment Tracker (live)</a>
+</p>
 
 ---
 

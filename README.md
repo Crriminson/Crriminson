@@ -118,7 +118,6 @@ AI PC – Robot Communication Interface: deployed robot learning policies (ACT, 
 ## 🏆 Highlights
 
 - 🥇 **AIR 1**, e-Yantra Robotics Competition 2025-26, IIT Bombay
-- 🛡️ Represented SFIT at the **Military Civil Fusion Conclave 2026**
 - 🧠 **Google Cloud Agentic AI Day 2025**, selected participant
 - ⚡ **Convolve 4.0** Pan-IIT AI/ML Hackathon · **Code For Bharat S2** · **Hack This Fall 2024**
 

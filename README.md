@@ -32,7 +32,7 @@ Multi-robot coordination stack for the e-Yantra Robotics Competition 2025-26 at 
 <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Nav2-22314E?style=flat-square" /> <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" />
 &nbsp; <a href="http://certificate.e-yantra.org/validate/EYRC2025-261774678153.11667ZEWXPKX"><img src="https://img.shields.io/badge/Certificate-Verify-7C3AED?style=flat-square" /></a>
 
-### 🥈 [Ghosted Movers](https://github.com/AtharvK-28/GameDevHack): 2nd Runner-up
+### 🥈 [Ghosted Movers](https://github.com/AtharvK-28/GameDevHack): 2nd Runner-up at Artificial Arcade
 
 A 3D party game where 2–4 players use their phones as controllers: movers race to haul loot out of a haunted mansion while one player, as the ghost, possesses furniture to stop them. Players join by scanning a QR code; no app install.
 
@@ -125,7 +125,7 @@ AI PC – Robot Communication Interface: deployed robot learning policies (ACT, 
 ## 🏆 Highlights
 
 - 🥇 **AIR 1**, e-Yantra Robotics Competition 2025-26, IIT Bombay
-- 🥈 **2nd Runner-up**, game dev hackathon with *Ghosted Movers*
+- 🥈 **2nd Runner-up**, Artificial Arcade game dev hackathon with *Ghosted Movers*
 - 🧠 **Google Cloud Agentic AI Day 2025**, selected participant
 - ⚡ **Convolve 4.0** Pan-IIT AI/ML Hackathon · **Code For Bharat S2** · **Hack This Fall 2024**
 

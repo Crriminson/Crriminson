@@ -119,7 +119,7 @@ More: <a href="https://github.com/Crriminson/Mentra">Mentra</a> ·
 
 ## 💼 Experience
 
-**Project Intern · SemiX IIT Bombay × e-Yantra Lab** &nbsp;<sub>`May – Jul 2026`</sub><br>
+**Project Intern · SemiX IIT Bombay** &nbsp;<sub>`May – Jul 2026`</sub><br>
 AI PC – Robot Communication Interface: deployed robot learning policies (ACT, Diffusion Policy, SmolVLA, π0) on an Intel AI PC driving a LeRobot SO101 arm, and benchmarked inference across CPU, iGPU and NPU.
 
 ## 🏆 Highlights
